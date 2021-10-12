@@ -1,0 +1,1 @@
+Toto je můj prvý projekt v gite! :)
